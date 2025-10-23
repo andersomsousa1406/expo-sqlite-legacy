@@ -37,11 +37,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo.git",
+    "url": "https://github.com/andersomsousa1406/expo-sqlite-legacy.git",
     "directory": "packages/expo-sqlite"
   },
   "bugs": {
-    "url": "https://github.com/expo/expo/issues"
+    "url": "https://github.com/andersomsousa1406/expo-sqlite-legacy/issues"
   },
   "author": "650 Industries, Inc.",
   "license": "MIT",
